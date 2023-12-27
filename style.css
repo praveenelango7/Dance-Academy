@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar {
+    background-color: #feecec;
+}
+
+
+.clr {
+    color: #F0901F
+}
+
+.clrv {
+    background-color: #F0901F
+}
+
+.clrw {
+    color: white;
+}
+
+.banner {
+    background-image: url(/Img/Dance\ grp.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding:  0 0 350px 0;
+}
+
+.fordance {
+    color: #F0901F;
+}
+
+.deep {
+    text-align: justify;
+}
